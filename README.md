@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hola, soy Dilan
 
-<!--
-**soyDCAR/soyDCAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Engineer enfocado en pipelines de datos
+e infraestructura para sistemas de IA.
+Base en procesamiento de señales (DSP) y ML con PyTorch.
 
-Here are some ideas to get you started:
+**Stack:** Python · PyTorch · NumPy · SciPy · Pandas · SQL · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Proyectos:**
+- Pipeline ML para clasificación industrial (EfficientNet-B0)
+- Analizador de señales con filtros digitales en tiempo real
+- [En construcción] Pipeline RAG con ChromaDB
+
+**Aprendiendo:** Docker · Apache Airflow · LangChain
+
+dilanc.acostar@gmail.com · linkedin.com/in/dilan-acosta
